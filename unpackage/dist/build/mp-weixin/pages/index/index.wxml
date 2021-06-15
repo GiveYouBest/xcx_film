@@ -1,0 +1,1 @@
+<view class="data-v-4faa1922"><view class="content data-v-4faa1922"><view class="content_hed data-v-4faa1922"><video class="vid data-v-4faa1922" src="{{filmList[0].filmVedio}}" controls="{{true}}" object-fit="contain" autoplay="true"></video></view></view><view class="footer data-v-4faa1922"><text class="title data-v-4faa1922">{{filmList[0].title}}</text></view></view>

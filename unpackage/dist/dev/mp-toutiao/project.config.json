@@ -1,0 +1,24 @@
+{
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"appid": "体验appId",
+	"projectname": "FilmMovieTrailer",
+	"condition": {
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"name": "",
+					"query": "",
+					"id": 0,
+					"pathName": "pages/index/index"
+				}
+			]
+		}
+	}
+}

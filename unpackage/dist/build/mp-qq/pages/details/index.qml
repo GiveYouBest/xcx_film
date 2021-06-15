@@ -1,0 +1,1 @@
+<view class="container data-v-2a11a357"><video src="{{url}}" type="video/mp4" show-fullscreen-btn="true" enable-auto-rotation="true" class="data-v-2a11a357"></video><view class="filmDesc data-v-2a11a357"><view class="desc data-v-2a11a357">{{''+desc+''}}</view></view></view>

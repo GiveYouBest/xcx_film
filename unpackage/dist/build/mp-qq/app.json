@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/filmData/index",
+    "pages/details/index",
+    "pages/mime/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Film",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "./static/images/find.png",
+        "selectedIconPath": "./static/images/unfind.png",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/filmData/index",
+        "iconPath": "./static/images/filmUnSelect.png",
+        "selectedIconPath": "./static/images/filmSelected.png",
+        "text": "列表"
+      },
+      {
+        "pagePath": "pages/mime/index",
+        "iconPath": "./static/images/unmime.png",
+        "selectedIconPath": "./static/images/mime.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

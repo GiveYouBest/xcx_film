@@ -1,0 +1,42 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "compileType": "miniprogram",
+  "projectname": "FilmMovieTrailer",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "",
+          "query": "",
+          "id": 0,
+          "pathName": "pages/index/index"
+        }
+      ]
+    }
+  },
+  "qqappid": "1110589307",
+  "qqLibVersion": "1.6.3"
+}

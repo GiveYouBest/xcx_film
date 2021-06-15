@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* pages/filmData/index.wxss */
+.pulldown.data-v-2881bd0c {
+	text-align: center;
+	height: 40rpx;
+	line-height: 40rpx;
+	width: 750rpx;
+	display: block;
+}
+.loading.data-v-2881bd0c {
+	width: 750rpx;
+	height: 100%;
+}
+u-loading.data-v-2881bd0c {
+	position: absolute;
+	top: 45%;
+	left: 45%;
+	-webkit-transform: translate(-50%-50%);
+	        transform: translate(-50%-50%);
+}
+.public image.data-v-2881bd0c {
+	width: 300rpx;
+	height: 500rpx;
+	padding: 5rpx;
+}
+.public .imgFather.data-v-2881bd0c {
+	margin: 5rpx 16rpx;
+	font-size: 14px;
+	overflow: hidden;
+	position: relative;
+	background: #fff;
+	border: 1rpx solid #dddee1;
+	border-radius: 5px;
+}
+.public .title.data-v-2881bd0c {
+	position: absolute;
+	left: 320rpx;
+	font-size: 32rpx;
+	color: #1AAD19;
+}
+.imgFather text.data-v-2881bd0c {
+	position: absolute;
+	left: 320rpx;
+	padding: 2rpx 0;
+	display: inline-block;
+	overflow: hidden;
+}
+.imgFather .rate.data-v-2881bd0c {
+	top: 50rpx
+}
+.imgFather .rates.data-v-2881bd0c {
+	position: absolute;
+	top: 50rpx;
+	left: 390rpx;
+}
+.imgFather .rates_text.data-v-2881bd0c {
+	position: absolute;
+	display: inline-block;
+	width: 85rpx;
+	top: 50rpx;
+	left: 590rpx;
+}
+.imgFather .dri.data-v-2881bd0c,
+.imgFather .dri_val.data-v-2881bd0c {
+	position: absolute;
+	top: 95rpx;
+}
+.imgFather .dri_val.data-v-2881bd0c {
+	left: 390rpx;
+}
+.imgFather .bianju.data-v-2881bd0c,
+.imgFather .bianju_val.data-v-2881bd0c {
+	top: 140rpx;
+}
+.imgFather .bianju_val.data-v-2881bd0c {
+	left: 390rpx;
+	overflow: hidden;
+}
+.imgFather .zhuyan.data-v-2881bd0c,
+.imgFather .zhuyan_val.data-v-2881bd0c {
+	top: 145rpx;
+	overflow: hidden;
+}
+.imgFather .zhuyan_val1.data-v-2881bd0c {
+	top: 195rpx;
+	left: 390rpx;
+}
+.imgFather .zhuyan_val.data-v-2881bd0c {
+	left: 390rpx;
+	overflow: hidden;
+}
+.imgFather .country.data-v-2881bd0c,
+.imgFather .country_val.data-v-2881bd0c {
+	top: 240rpx;
+}
+.imgFather .country_val.data-v-2881bd0c {
+	left: 390rpx;
+}
+.imgFather .lang.data-v-2881bd0c,
+.imgFather .lang_val.data-v-2881bd0c {
+	top: 290rpx;
+}
+.imgFather .lang_val.data-v-2881bd0c {
+	left: 390rpx;
+}
+.imgFather .date.data-v-2881bd0c,
+.imgFather .date_val.data-v-2881bd0c {
+	top: 340rpx;
+}
+.imgFather .date_val.data-v-2881bd0c {
+	left: 450rpx;
+	overflow: hidden;
+}
+.imgFather .length.data-v-2881bd0c,
+.imgFather .length_val.data-v-2881bd0c {
+	top: 390rpx;
+}
+.imgFather .length_val.data-v-2881bd0c {
+	left: 390rpx;
+}
+.imgFather .leij.data-v-2881bd0c,
+.imgFather .leij_val.data-v-2881bd0c {
+	position: absolute;
+	top: 440rpx;
+}
+.imgFather .leij_val.data-v-2881bd0c {
+	font-family: 'stonefont' !important;
+	src: url('http://p1.meituan.net/colorstone/e45adbaf43b01cc539986e542eaa3f173444.eot');
+	left: 450rpx;
+}
+
